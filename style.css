@@ -1,0 +1,51 @@
+
+
+header{
+    background-color:#c3f1c3;
+}
+.nav-logo{
+    width: 180px;
+}
+.nav-list{
+    margin: 0px 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+#Sign-up{
+    font-size: 17px;
+    border: 2px solid;
+    border-radius: 20px;
+    background-color: #218838;
+    font-weight: 800;
+    color: aliceblue;
+    text-align: center;
+}
+#Sign-up:hover{
+    border: 2px solid black;
+}
+
+#banner{
+    height: 400px;
+}
+#chart{
+    border-radius: 25px 2px 25px 2px;
+    background-color:beige;
+    width: 80%;
+}
+#chart2{
+    border-radius: 25px 2px 25px 2px;
+    background-color:white;
+    width: 80%;
+    box-shadow: 1px 1px 30px black;
+}
+.seat img{
+    width: 35px;
+}
+.course-img{
+   text-align: center;
+}
+#course-body{
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    background-color: wheat;
+}
